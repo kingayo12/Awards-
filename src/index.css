@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ 
+}
+body{
+  background: linear-gradient(89.01deg, #00C2FF -11.29%, #D504F8 103.32%);
+}
+.homepage_container{
+  width: 100%;
+  height: 100vh;
+  margin: auto auto;
+  clear: both;
+  max-width: 1300px;
+}
+.award_container{
+  width: 100%;
+  height: fit-content;
+  margin: auto auto;
+  clear: both;
+  max-width: 1300px;
+}
+.award_container::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 300%;
+  background: url(./img/2833951.jpg) repeat-y;
+  background-blend-mode: screen;
+  background-size: cover;
+  background-attachment: fixed;
+  opacity: 0.4;
+  z-index: -1;
+
+}
+.line{
+  background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.56) 0%, rgba(255, 255, 255, 0) 100%);
+border-radius: 100px;
+}
+.h-box{
+  background: rgba(255, 255, 255, 0.56);
+  min-height: 300px;
+}
+.h-text{
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  color: #023B70;
+  line-height: 40px;
+}
+.h-button{
+background: rgba(60, 5, 80, 0.41);
+border-radius: 100px;
+}
+.loading-animation {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading-animation-dot {
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  border-radius: 50%;
+  background-color: #b8b8b8;
+  animation: loading-animation-bounce 0.5s infinite alternate;
+}
+
+@keyframes loading-animation-bounce {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(0.5);
+  }
+}
+.award{
+  background: rgba(255, 255, 255, 0.58);
+border-radius: 20px;
+font-family: 'Kaushan Script', cursive;
+}
+.h-award{
+  background: linear-gradient(to top, #02a6d8 50%, #00000086 ) ;
+  color: transparent;
+  font-weight: 500;
+  letter-spacing: .2rem;
+  /* text-shadow: 2px 2px 3px rgba(188, 188, 188, 0.5); */
+  -webkit-background-clip: text;
+     -moz-background-clip: text;
+          background-clip: text;
+}
+.reeg{
+font-family: 'Kaushan Script', cursive;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-weight: 300;
+}
+.awarding{
+  background: rgba(0, 0, 0, 0.35);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+font-family: 'Kaushan Script', cursive;
+font-weight: 300;
+}
+.button_a{
+  background: #029bca;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+
+}

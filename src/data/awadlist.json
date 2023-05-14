@@ -1,0 +1,215 @@
+{
+    "awards": [
+      {
+        "id": 1,
+        "num": 1,
+        "position": "Overall best in engineering",
+        "link": "/overall"
+      },
+      {
+        "id": 2,
+        "num": 2,
+        "position": "Leadership award",
+        "link": "/"
+      },
+      {
+        "id": 3,
+        "num": 3,
+        "position": "Most influential",
+        "link": "/"
+      },
+      {
+        "id": 4,
+        "num": 4,
+        "position": "Most valuable",
+        "link": "/"
+      },
+      {
+        "id": 5,
+        "num": 5,
+        "position": "Entrepreneur of the year",
+        "link": "/"
+      },
+      {
+        "id": 6,
+        "num": 6,
+        "position": "Most talented",
+        "link": "/"
+      },
+      {
+        "id": 7,
+        "num": 7,
+        "position": "Most versatile",
+        "link": "/"
+      },
+      {
+        "id": 8,
+        "num": 8,
+        "position": "Best automobile",
+        "link": "/"
+      },
+      {
+        "id": 9,
+        "num": 9,
+        "position": "Most sociable",
+        "link": "/"
+      },
+      {
+        "id": 10,
+        "num": 10,
+        "position": "Most punctual",
+        "link": "/"
+      },
+      {
+        "id": 11,
+        "num": 11,
+        "position": "Most photogenic",
+        "link": "/"
+      },
+      {
+        "id": 12,
+        "num": 12,
+        "position": "Best dressed (Male & Female)",
+        "link": "/"
+      },
+      {
+        "id": 13,
+        "num": 13,
+        "position": "Miss Melanin",
+        "link": "/"
+      },
+      {
+        "id": 14,
+        "num": 14,
+        "position": "Most beautiful",
+        "link": "/"
+      },
+      {
+        "id": 15,
+        "num": 15,
+        "position": "Hourglass",
+        "link": "/"
+      },
+      {
+        "id": 16,
+        "num": 16,
+        "position": "Most popular fresher",
+        "link": "/"
+      },
+      {
+        "id": 17,
+        "num": 17,
+        "position": "Freshest fresher",
+        "link": "/"
+      },
+      {
+        "id": 18,
+        "num": 18,
+        "position": "Clique of the year",
+        "link": "/"
+      },
+      {
+        "id": 19,
+        "num": 19,
+        "position": "Best couple",
+        "link": "/"
+      },
+      {
+        "id": 20,
+        "num": 20,
+        "position": "Most expensive",
+        "link": "/"
+      },
+      {
+        "id": 21,
+        "num": 21,
+        "position": "Most Handsome",
+        "link": "/"
+      },
+      {
+        "id": 22,
+        "num": 22,
+        "position": "Most beautiful",
+        "link": "/"
+      },
+      {
+        "id": 23,
+        "num": 23,
+        "position": "Most Inovative",
+        "link": "/"
+      },
+      {
+        "id": 24,
+        "num":24,
+        "position": "Most Deciplined",
+        "link": "/"
+      },
+      {
+        "id": 25,
+        "num": 25,
+        "position": "Most Creative",
+        "link": "/"
+      },
+      {
+        "id": 26,
+        "num": 26,
+        "position": "Best Arewa student",
+        "link": "/"
+      },
+      {
+        "id": 27,
+        "num": 27,
+        "position": "best student chapter",
+        "link": "/"
+      },
+      {
+        "id": 28,
+        "num": 28,
+        "position": "student of integrity",
+        "link": "/"
+      },
+      {
+        "id": 29,
+        "num": 29,
+        "position": "Friend of nuesa",
+        "link": "/"
+      },
+      {
+        "id": 30,
+        "num": 30,
+        "position": "Funiest student",
+        "link": "/"
+      },
+      {
+        "id": 31,
+        "num": 31,
+        "position": "content creator of the year",
+        "link": "/"
+      },
+      {
+        "id": 32,
+        "num": 32,
+        "position": "most talked about",
+        "link": "/"
+      },
+      {
+        "id": 33,
+        "num": 34,
+        "position": "most athletic",
+        "link": "/"
+      },
+      {
+        "id": 34,
+        "num": 34,
+        "position": "best dancer",
+        "link": "/"
+      }
+      ,
+      {
+        "id": 35,
+        "num": 35,
+        "position": "miss ivory",
+        "link": "/"
+      }
+    ]
+  }
