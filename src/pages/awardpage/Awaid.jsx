@@ -29,7 +29,7 @@ const Awaid = () => {
         <div className="awards w-full flex flex-col gap-2">
             {data.awards.map((award)=>(
                  <div className="awarding one w-full py-3 px-3 flex justify-between text-white md:px-6 md:py-6 animate__animated animate__fadeInUp" key={award.id}>
-                 <h6 className='text-xs md:text-lg uppercase'><span className='num px-1 md:px-3'>{award.num}.</span> {award.position}</h6>
+                 <h6 className='text-xs lg:text-lg uppercase'><span className='num px-1 md:px-3'>{award.num}.</span> {award.position}</h6>
                  <Link 
                  to={award.link}
                  className="button_a a-one px-6 md:px-8"
